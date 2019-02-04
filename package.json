@@ -4,7 +4,12 @@
   "main": "index.js",
   "license": "MIT",
   "private": true,
-  "dependencies": {
+  "scripts": {
+    "test": "mocha"
+  },
+  "bin": "bin/speaking-clock.js",
+  "dependencies": {},
+  "devDependencies": {
     "mocha": "^5.2.0"
   }
 }
