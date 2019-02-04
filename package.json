@@ -3,5 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
 }
