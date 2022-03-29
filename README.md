@@ -21,11 +21,11 @@ twenty past five
 6:25
 twenty five past six
 
+6:30
+half past six
+
 6:32
 six thirty two
-
-7:30
-half past seven
 
 7:35
 twenty five to eight
