@@ -1,15 +1,15 @@
 {
   "name": "speaking-clock",
   "version": "1.0.0",
-  "main": "index.js",
   "license": "MIT",
   "private": true,
   "scripts": {
     "test": "mocha"
   },
+  "type": "module",
   "bin": "bin/speaking-clock.js",
   "dependencies": {},
   "devDependencies": {
-    "mocha": "^5.2.0"
+    "mocha": "^9.2.2"
   }
 }

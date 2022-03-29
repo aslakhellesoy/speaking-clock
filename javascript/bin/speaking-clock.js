@@ -1,4 +1,4 @@
 #!/usr/bin/env node
-const speak = require('../lib/speak')
+import { speak } from '../lib/speak.js'
 
 console.log(speak(process.argv[0]))
