@@ -8,8 +8,10 @@
   },
   "type": "module",
   "bin": "bin/speaking-clock.js",
-  "dependencies": {},
   "devDependencies": {
-    "mocha": "^9.2.2"
+    "@types/mocha": "^9.1.0",
+    "mocha": "^9.2.2",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3"
   }
 }
