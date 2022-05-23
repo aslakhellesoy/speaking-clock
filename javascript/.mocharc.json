@@ -1,5 +1,4 @@
 {
-  "loader": "ts-node/esm",
   "extension": ["ts", "js"],
   "recursive": true
 }
