@@ -1,5 +1,7 @@
 # Speaking Clock JavaScript
 
+**If you prefer JavaScript over TypeScript, check out the `javascript` branch.**
+
 ## Build & Test
 
     npm install
